@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/israelmarmar/parser-server-example#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "parse-server": "^3.9.0"
   }
 }
